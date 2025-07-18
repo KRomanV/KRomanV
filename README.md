@@ -1,88 +1,83 @@
-👨‍💻 Roman Kupreychik
+# 👨‍💻 Roman Kupreychik
 
-Senior Fullstack DeveloperObninsk, Russia | Remote only | Open to work WhatsApp / Telegram: @KRoman_VPhone: +7 906 645-25-46 Email: kuromanv@gmail.com
+**Senior Fullstack Developer**  
+Obninsk, Russia • Remote only • Actively seeking new opportunities  
+📞 +7 906 645-25-46 | 🟢 Telegram: [@KRoman_V](https://t.me/KRoman_V)  
+📧 kuromanv@gmail.com
 
-🎓 Summary
+---
 
-Experienced Fullstack Developer with over 4 years in developing high-load systems, ERP platforms, and analytical dashboards. Strong background in both backend and frontend architecture. Passionate about performance, clean architecture, and pixel-perfect UI.
+## 🧠 Summary
 
-📅 Experience
+Experienced Fullstack Developer with **4+ years** of experience in building scalable web applications, energy analytics platforms, and document-driven ERP systems.  
+Strong skills in both **backend** (Node.js, PostgreSQL) and **frontend** (React, TypeScript, Redux).  
+Capable of leading small teams and optimizing performance-critical systems.
 
-Senior Fullstack Developer
+---
 
-Energosberezhenie LLC — MoscowAugust 2021 – Present
+## 🛠 Tech Stack
 
-Project 1: Automated Data Collection System for MOEK (Power Utility)
+- **Frontend**: React, Redux, TypeScript, React Admin, Ant Design, Material UI, Chart.js  
+- **Backend**: Node.js, Express, PostgreSQL, RabbitMQ, REST, GraphQL  
+- **DevOps & Tools**: GitLab CI/CD, Docker, Webpack, Vite  
+- **Libraries & Utils**: Formik, Yup, PDF.js, ExcelJS, Day.js, Less  
+- **Management**: Jira, Confluence
 
-Built an information-analytical system for collecting, processing, and analyzing energy data.
+---
 
-Integrated with metering equipment, dispatching systems, and analytics modules.
+## 💼 Work Experience
 
-Project 2: Internal Monitoring & Reporting Platform (In Development)
+### 🏢 *Senior Fullstack Developer*  
+**Energosberezhenie LLC** — *Moscow*  
+📅 _August 2021 – Present_
 
-Designed a new platform with a focus on scalability, performance, and maintainability.
+#### 🔹 Project 1: Automated Data Collection System for MOEK  
+- Built an information-analytical system for collecting, processing, and analyzing energy usage data  
+- Integrated with metering devices, dispatching systems, and analytics modules
 
-Key Achievements:
+#### 🔹 Project 2: Internal Monitoring Platform (in progress)  
+- Designed a new scalable and high-performance monitoring/reporting platform
 
-Migrated heavy calculations from frontend to backend (Node.js + PostgreSQL), improving UI performance by 2.5×.
+#### ⚙️ Key Achievements:
+- Migrated complex calculations from frontend to backend (**Node.js + PostgreSQL**) improving UI speed **2.5×**  
+- Introduced **TypeScript**, a custom **UI-kit**, and improved Redux architecture, speeding up development by **~25%**  
+- Reduced bugs in production by **~50%** via CI/CD automation  
+- Led a **team of 5 developers**: task management, mentoring, code reviews
 
-Introduced TypeScript, a custom UI-kit, and optimized Redux architecture, speeding up feature delivery by 25%.
+#### 🧩 Responsibilities:
+- Backend services development with REST, RabbitMQ, PostgreSQL  
+- Big data visualizations using Chart.js + custom components  
+- Frontend implementation with React + Redux + Ant Design  
+- CI/CD setup and GitLab pipelines  
+- Writing custom components, hooks, and documentation (Confluence)
 
-Reduced production bugs by ~50% through robust CI/CD and structured release cycles.
+---
 
-Acted as team lead: managing 5 developers, task planning, mentoring, code reviews.
+### 🏢 *Frontend Developer*  
+**POLATI** — *Moscow*  
+📅 _February 2021 – August 2021_
 
-Responsibilities:
+#### 🔹 Project: ERP system for HR and Document Management
 
-Backend development (Node.js, PostgreSQL, RabbitMQ)
+#### ✨ Responsibilities:
+- Built UIs for managing employees, vacations, salaries, and access roles  
+- Created a document archive module: drag-and-drop upload, PDF preview, filtering  
+- Developed vacation & salary automation logic  
+- Integrated export to PDF and Excel with rich formatting  
+- Connected REST and GraphQL APIs using React Query  
+- Ensured responsive and cross-browser-friendly design
 
-Frontend architecture (React, Redux, Ant Design)
+#### 🔧 Stack:
+React, TypeScript, React Admin, Material UI, React Query, Vite, Formik, Yup, PDF.js, ExcelJS, Day.js
 
-Big data visualizations (Chart.js + custom)
+---
 
-CI/CD setup (GitLab)
+## 🎓 Education
 
-Custom UI-kit support and component development
+**Moscow Technical University**  
+_Bachelor in Applied Informatics_  
+📅 2016–2020
 
-Code reviews, documentation (Confluence)
+---
 
-Stack:
-React, Redux, TypeScript, Ant Design, Chart.js, Node.js, PostgreSQL, RabbitMQ, GitLab CI/CD, Less, Jira, Webpack
-
-Frontend Developer
-
-POLATI — MoscowFebruary 2021 – August 2021
-
-Project: ERP system for HR and document management
-
-Key Tasks:
-
-Developed modules for managing employees, vacations, salaries, and role-based access.
-
-Built document archive module with drag-and-drop upload, PDF preview, tag filtering.
-
-Automated vacation tracking and salary calculations.
-
-Implemented export to PDF/Excel with rich formatting.
-
-Integrated REST and GraphQL APIs using React Query.
-
-Ensured responsiveness and cross-browser compatibility.
-
-Stack:
-React, TypeScript, React Admin, Material UI, React Query, Vite, Formik, Yup, PDF.js, ExcelJS, Day.js, REST, GraphQL
-
-🔧 Skills
-
-Frontend: React, Redux, TypeScript, React Admin, Ant Design, Material UI, Chart.js
-
-Backend: Node.js, Express, PostgreSQL, RabbitMQ, REST, GraphQL
-
-DevOps & Tools: GitLab CI/CD, Docker, Webpack, Vite
-
-Other: Formik, Yup, PDF.js, ExcelJS, Day.js, Less, Jira, Confluence
-
-🎓 Education
-
-Moscow Technical UniversityBachelor in Applied Informatics, 2016–2020
-
+## 🗓 Last updated: July 18, 2025
